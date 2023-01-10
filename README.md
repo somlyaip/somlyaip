@@ -17,9 +17,9 @@
 - Reactive stack
 - Cloud Computing, Kubernetes
 - Web frontend
-- JavaScript Fullstack Frameworks
+- JavaScript fullstack frameworks
 - TypeScript
-- Domain Driven Design
+- Domain-Driven Design
 
 ### Specific expertise ✨
 - I have deep understanding of PDF documents under the hood
