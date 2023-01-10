@@ -17,6 +17,7 @@
 - Reactive stack
 - Cloud Computing, Kubernetes
 - Web frontend
+- React
 - JavaScript fullstack frameworks
 - TypeScript
 - Domain-Driven Design
