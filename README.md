@@ -1,18 +1,34 @@
 ### Hello there 👋
 
-Under construction :building_construction:
+### I currently use 🏗
+- Java 17/11
+- Spring Boot, Servlet Stack
+  - Including developing internal Spring Boot Starters
+- Spring Cloud: Circuit Breaker with Resilence4J, FeignClient
+- Hibernate, Liquibase, MySQL, Oracle
+- JMS, Apache ActiveMQ Artemis
+- Gradle
+- Linux, Docker, Docker Compose
 
-<!--
-**somlyaip/somlyaip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm currently interested in 🌱
+- Kotlin
+- Lightweight Microframeworks on JVM
+- jOOQ
+- Reactive stack
+- Cloud Computing, Kubernetes
+- Web frontend
+- JavaScript Fullstack Frameworks
+- TypeScript
+- Domain Driven Design
 
-Here are some ideas to get you started:
+### Specific expertise ✨
+- I have deep understanding of PDF documents under the hood
+- I have been working in the printing industry associated with the Hungarian Post Office (Magyar Posta) for 10 years
+  - Receiving and processing large amount of PDF documents with corresponding metadata
+  - Orchestrating Inspire (formerly GMC) workflow engine (Inspire Production Server)
+  - Controlling industrial printers and enveloping machines 
+  - Sending and processing logistic data to Magyar Posta
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I often use boring tech, but I'm always looking for the cutting edge. :rocket:
+
+For further information visit [my LinkedIn profile](https://www.linkedin.com/in/pal-somlyai?original_referer=).
