@@ -30,6 +30,6 @@
   - Controlling industrial printers and enveloping machines 
   - Sending and processing logistic data to Magyar Posta
 
-I often use boring tech, but I'm always looking for the cutting edge. :rocket:
+I often use boring tech, but I always explore the cutting edge. :rocket:
 
 For further information visit [my LinkedIn profile](https://www.linkedin.com/in/pal-somlyai?original_referer=).
