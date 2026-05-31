@@ -1,35 +1,30 @@
-### Hello there 👋
+# Hello there 👋
 
-### I currently use 🏗
-- Java 17/11
-- Spring Boot, Servlet Stack
-  - Including developing internal Spring Boot Starters
-- Spring Cloud: Circuit Breaker with Resilence4J, FeignClient
-- Hibernate, Liquibase, MySQL, Oracle
-- JMS, Apache ActiveMQ Artemis
-- Gradle
-- Linux, Docker, Docker Compose
+I'm a full-stack engineer who thinks end-to-end — from UX/UI through frontend and backend to infrastructure and AI integration.
 
-### I'm currently interested in 🌱
-- Kotlin
-- Lightweight Microframeworks on JVM
-- jOOQ
-- Reactive stack
-- Cloud Computing, Kubernetes
-- Web frontend
-- React
-- JavaScript fullstack frameworks
-- TypeScript
-- Domain-Driven Design
+## I currently work with 🏗
 
-### Specific expertise ✨
-- I have deep understanding of PDF documents under the hood
-- I have been working in the printing industry associated with the Hungarian Post Office (Magyar Posta) for 10 years
-  - Receiving and processing large amount of PDF documents with corresponding metadata
-  - Orchestrating Inspire (formerly GMC) workflow engine (Inspire Production Server)
-  - Controlling industrial printers and enveloping machines 
-  - Sending and processing logistic data to Magyar Posta
+**Backend**
+- Java 17, Spring Boot, Spring Data JPA / Hibernate
 
-I often use boring tech, but I always explore the cutting edge. :rocket:
+**Frontend**
+- Angular, React (preferred), TypeScript
 
-For further information visit [my LinkedIn profile](https://www.linkedin.com/in/pal-somlyai?original_referer=).
+**Databases**
+- PostgreSQL, Microsoft SQL Server
+- Hibernate performance optimization → [you-dont-know-hibernate](https://github.com/somlyaip/you-dont-know-hibernate)
+
+**AI & tooling**
+- Claude Code, MCP, Claude API
+- Claude Certified Architect – Foundations (CCA-F)
+
+## I'm currently exploring 🌱
+- AI-powered backends in Python
+- UX/UI design for the web
+
+## Specific expertise ✨
+- Spring Data JPA / Hibernate performance optimization
+- Enterprise-scale system design and architecture
+- 10 years in the printing industry (PDF processing, industrial workflow orchestration)
+
+For further information visit [my LinkedIn profile](https://www.linkedin.com/in/pal-somlyai).
